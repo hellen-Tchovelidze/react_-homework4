@@ -1,0 +1,12 @@
+.paragraph{
+    color: var(--Additional-text, #6E798C);
+font-family: "Open Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px; /* 156.25% */
+max-width: 360px;
+width: 100%;
+padding-left: 8%;
+padding-right: 8%;
+}

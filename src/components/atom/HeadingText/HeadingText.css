@@ -1,0 +1,9 @@
+.heading_textt{
+    color: var(--Heading-text, #081F32);
+font-family: "DM Serif Display";
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px; 
+letter-spacing: 0.24px;
+}

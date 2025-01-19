@@ -1,0 +1,13 @@
+.witecirc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    background-color: #fff;
+ position: absolute;
+top: 23px;
+margin-left: 280px;
+width: 32px;
+height: 32px;
+
+}
