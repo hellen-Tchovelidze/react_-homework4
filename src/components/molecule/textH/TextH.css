@@ -7,3 +7,10 @@ width: 100%;
 padding-left: 8%;
 padding-right: 8%;
 }
+
+.icon_box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   gap: 8%;
+}

@@ -8,7 +8,7 @@ function TextH({text,hoticone,organicicone,wheaticone }) {
         <>
 <div className="hed">
     <HeadingText text={text} />
-    <div>
+    <div className="icon_box">
     <img src={hoticone} alt="" />
     <img src={organicicone} alt="" />
     <img src={wheaticone} alt="" />
