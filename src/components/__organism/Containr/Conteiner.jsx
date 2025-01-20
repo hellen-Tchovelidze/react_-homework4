@@ -1,11 +1,11 @@
 import React from "react";
 import "./Container.css"
-import Button from "../../atom/button/button";
-import Header from "../../molecule/Header/Header";
-import TextH from "../../molecule/textH/TextH";
-import Paragraph from "../../atom/Paragraph/Paragraph";
-import Temperature from "../../molecule/Temperature/Temperature";
-import Price from "../../molecule/Price/Price";
+import Button from "../../__atom/button/button";
+import Header from "../../__molecule/Header/Header";
+import TextH from "../../__molecule/textH/TextH";
+import Paragraph from "../../__atom/Paragraph/Paragraph";
+import Temperature from "../../__molecule/Temperature/Temperature";
+import Price from "../../__molecule/Price/Price";
 
 
 

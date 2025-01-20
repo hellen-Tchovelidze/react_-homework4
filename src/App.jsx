@@ -1,6 +1,6 @@
 
 import './App.css'
-import Conteiner from './components/organism/Containr/Conteiner'
+import Conteiner from './components/__organism/Containr/Conteiner'
 import pizza from "./assets/images/Pizza Photo.png"
 import tortelin from "./assets/images/Tortellini Photo.jpg"
 import cake from "./assets/images/Strawberry cake Photo.png"

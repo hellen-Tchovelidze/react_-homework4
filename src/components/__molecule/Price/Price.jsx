@@ -1,6 +1,6 @@
 import React from "react";
 import "./Price.css"
-import Button from "../../atom/button/button";
+import Button from "../../__atom/button/button";
 
 
 function Price({newprice, oldprice}) {

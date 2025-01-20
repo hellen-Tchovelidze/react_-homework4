@@ -1,6 +1,6 @@
 import React from "react";
 import "./TextH.css"
-import HeadingText from "../../atom/HeadingText/HeadingText";
+import HeadingText from "../../__atom/HeadingText/HeadingText";
 
 
 function TextH({text,hoticone,organicicone,wheaticone }) {
